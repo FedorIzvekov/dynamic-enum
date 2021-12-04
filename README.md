@@ -1,12 +1,12 @@
 # Dynamic Enum Reflection
 
-The goal of this project is to explore the capabilities of Java 11 and reflection by dynamically creating enums at runtime. This project is
+The goal of this project is to explore the capabilities of Java 11 - 17 and reflection by dynamically creating enums at runtime. This project is
 purely experimental and not intended for use in real-world projects.
 
 
 ## Environment Setup
 
-You'll need JDK 11 to work with this project.
+You'll need JDK 11 - 17 to work with this project.
 
 
 ## Building and Running
